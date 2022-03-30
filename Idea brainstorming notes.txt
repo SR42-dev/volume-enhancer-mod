@@ -1,0 +1,55 @@
+Keywords : 
+
+	- parkinsons
+	- dementia
+	- mental illness
+	- accident prevention
+	- Accelerometer input, heart rate sensor, brake tension sensor (mapping length of brake pull to speedometer readings), vehicle vibration sensors, 
+	  machine noise sensors
+	- EEG headset to measure the current state of the brain
+	- Search history, password, sentence formation style to predict the thought process of an individual
+	- Actuations in the chassis to minimize accident damage and injury
+	- Warning lights, emergency shutdowns, anti collision alertness when the user is in an aloof state
+	- Non invasive alcohol detection, key+safety checklist for the vehicle to turn on
+	- HUD interface, sensors at critical points on a vehicle to match with a user's intuition that something will go wrong
+	- Detection of the emotional state of surrounding humans to predict crashes, external cloud/database to store stimuli and sensory input as well as outcome of the event for dataset creation
+	- SCADA components - input, RTU gathering point, human machine interface & comms network
+	- using wifi signals to ping devices and figure out movement
+
+
+Idea 1 :
+
+	- lack of fitness to drive - hip movement, sleepiness, heart activity
+
+	- drive assistance system - overtake assistance, 
+
+
+	- third person perspective - 
+	- 4 wheeler solution - 
+	- 2 wheeler solution - 
+
+	- inputs - 
+		- external - break failure, proximity sensor, cameras 
+		- internal - heart rate, pupil dilation, eeg input (detecting confidence, concentration, nausea (irregular eye movement)) 
+
+Idea 2 :
+
+	- music volume automation
+
+Idea 3 :
+
+	- gaming mouse sensitivity
+
+
+
+Final presentation :
+
+- Idea 3 - Overtake assistance system (saishruti)
+- Idea 2 - 2 wheeler assistant (sobriety check, overtake(confidence) & proximity assistance)
+- Idea 1 - Music volume automation (ved)
+- Idea 4 - Gaming mouse sensitivity (suraj)
+
+
+
+
+ 

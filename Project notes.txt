@@ -1,0 +1,21 @@
+Audio mixer idea 
+
+	- inputs to assess volume comfort & song choice comfort
+	- webcam(emotions), ecg, earphones
+	- microphones listen to music in surroundings and use it to predict 
+	- potentially add nlp to figure out keywords that attract users to lyrics
+	- check goosebump detection
+
+Steps :
+
+	- Phase 1 - manal volume input, map to amplitude variation of the song, feed data into model and extract reading
+		
+		1. Predict genre using spectrogram 
+		2. Take zero crossing rate
+		3. Take spectral centroid
+		4. Take spectral rolloff
+		5. Take MFCC
+		6. Feed 2, 3, 4, 5 data with 1 result to a second network to get volume
+
+	- Phase 2 - <frequency variation mapping to emotional state> 
+
